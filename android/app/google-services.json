@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "418277085596",
+    "project_id": "ngdemo17-f4ff2",
+    "storage_bucket": "ngdemo17-f4ff2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418277085596:android:d0808ad763330014613859",
+        "android_client_info": {
+          "package_name": "com.ngdemo.ngdemo17"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2fksX8TPhjuepMJiVAeJ6rkYefF3kEyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
